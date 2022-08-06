@@ -1,6 +1,6 @@
-# COVID-Detection-via-CT-Scan-Image-Analysis
+# COVID Detection via CT Scan Image Analysis
 
-Big Data and Cloud Computing Mini Project 2 by Marvee dela Resma and Patrick Guillano La Rosa - March 07, 2022. The code, analysis, and the full report are included in the [Technical Report](https://github.com/pgplarosa/COVID-Detection-via-CT-Scan-Image-Analysis/blob/main/md/main.md). If you have any questions regarding this study, please send me a message via  [LinkedIn](https://www.linkedin.com/in/patricklarosa/).
+<p align="justify">Big Data and Cloud Computing Mini Project 2 by Marvee dela Resma and Patrick Guillano La Rosa - March 07, 2022. The code, analysis, and the full report are included in the <a href="https://github.com/pgplarosa/COVID-Detection-via-CT-Scan-Image-Analysis/blob/main/md/main.md">Technical Report</a>. If you have any questions regarding this study, please send me a message via  <a href="https://www.linkedin.com/in/patricklarosa/">LinkedIn.</p>
 
 <img src="./img/covid_19.jpg" width=100% />
 
